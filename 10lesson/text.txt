@@ -1,0 +1,3 @@
+Работа с github
+и разбор темы с pull request
+и fork
